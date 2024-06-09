@@ -1,12 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://wsc.icc-cricket.com/games/233087-20240123-New-Zealand-vs-Afghanistan-Thumbnail.jpg", Willow
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://criczine.cricdiction.com/wp-content/uploads/2024/06/India-vs-Pakistan.jpg", Willow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n2.dramaticreadings.com:999/hls/skysact.m3u8?md5=1quGxdXRS10nkkfnv0K7YA&expires=1717875541
-
-
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://en.highlightsguru.com/wp-content/uploads/2022/05/Bangladesh-vs-Sri-Lanka.webp", Willow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://focus4ca.com/
-https://n8.dramaticreadings.com:999/hls/mskyscrick.m3u8?md5=Mc1yhgYxEtS2yOBZQOnUvQ&expires=1717875592
+https://n2.dramaticreadings.com:7066/hls/stars1inhhh.m3u8?md5=gloeUD6kf9FhmiYN0bF-Qg&expires=1717951267
