@@ -5,3 +5,16 @@
 #EXTVLCOPT:http-referrer=https://focus4ca.com/
 https://n1.dramaticreadings.com:7066/hls/stars1inhhh.m3u8?md5=d5lF-a-NCIIeMASMB3T0mQ&expires=1717964098
 
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://criczine.cricdiction.com/wp-content/uploads/2024/06/India-vs-Pakistan.jpg", Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n1.dramaticreadings.com:7066/hls/stars1inhhh.m3u8?md5=0rSflInj3e4HZ1gSE1sH9A&expires=1717964279
+
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://criczine.cricdiction.com/wp-content/uploads/2024/06/India-vs-Pakistan.jpg", Willow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://n4.dramaticreadings.com:7066/hls/stars1inhhh.m3u8?md5=nt8_w_N9R_sOEL29lYL0pw&expires=1717964319
