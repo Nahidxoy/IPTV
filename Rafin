@@ -7,6 +7,12 @@ http://103.115.126.26:8000/play/a039/index.m3u8
 
 
 
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://www.howzat.com/blog/assets/front/img/blog/sa-vs-ind-final-t20-world-cup-2024-prediction-pn7-main.jpg", Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://focus4ca.com/
+https://super.footcric.xyz/Toffeelive/live.php?id=c58fd7a1e300&e=.m3u8
+
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/304034/logo/240x240/mobile_logo_418725001739525321.png", IRE vs ZIM
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1740003724:KeyName=prod_live_events:Signature=aWTROph9LzY4ZRziA-MNX8urTgBrrGg8X7LhE5uN_cF_K29inBOn4zdAT9-QwlekPn0MRZ0Fz6aPAfiEscFZAQ"}
